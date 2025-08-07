@@ -3,7 +3,7 @@
 ## Autores
 - 22046 - Nelson Escalante
 - 23384 - Eliazar Canastuj
-- Nombre 2
+- 23601 - Diego Ramírez
 
 ## Descripcion
 Tercer laboratorio del curso de Teoria de la Computacion. 
